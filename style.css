@@ -1,0 +1,23 @@
+body {
+  border: 5px solid black;
+  background: lightgrey;
+}
+.container {
+  padding: 1px;
+  background: white;
+}
+
+table,
+td,
+th {
+  border: 2px solid black;
+  padding: 2px;
+  border-collapse: collapse;
+}
+h2 {
+  background: rgba(36, 215, 247, 0.993);
+  padding-right: 10%;
+}
+.details {
+  background: white;
+}
