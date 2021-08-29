@@ -17,8 +17,11 @@ th {
   padding: 2px;
   border-collapse: collapse;
 }
+th {
+  background: rgb(231, 227, 227);
+}
 h2 {
-  background: rgba(191, 232, 240, 0.993);
+  background: rgba(218, 247, 253, 0.993);
   padding-right: 10%;
 }
 .details {
