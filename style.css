@@ -6,16 +6,19 @@ body {
   padding: 1px;
   background: white;
 }
-
+.header {
+  display: flex;
+  justify-content: space-between;
+}
 table,
 td,
 th {
-  border: 2px solid black;
+  border: 1px solid rgb(105, 105, 105);
   padding: 2px;
   border-collapse: collapse;
 }
 h2 {
-  background: rgba(36, 215, 247, 0.993);
+  background: rgba(191, 232, 240, 0.993);
   padding-right: 10%;
 }
 .details {
